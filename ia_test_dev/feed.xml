@@ -52,14 +52,14 @@
         <head>
           <meta charset="utf-8">
           <link rel="canonical" href="http://bruno-souto.github.io/ia_test_dev/articles/testarticle_caps.html">
-          <title>BRUNO'S SAMPLE ARTICLE.</title>
+          <title>BRUNO'S SAMPLE ARTICLE CAPS</title>
         </head>
         <body>
           <article>
             <header>
               <h1>TEST</h1>
               <time class="op-published" datetime="2019-03-15 12:18:00">2019-03-15 12:18:00</time>
-              <time class="op-modified" datetime="2019-03-15 12:18:00">2019-03-15 12:18:00</time>
+              <time class="op-modified" datetime="2019-03-15 12:19:00">2019-03-15 12:18:00</time>
             </header>
             
     <p>
