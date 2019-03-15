@@ -9,7 +9,7 @@
     <lastBuildDate>2019-03-15 12:18:00</lastBuildDate>
     <item>
       <title>Bruno's sample article.</title>
-      <link>http://bruno-souto.github.io/ia_test_dev/articles/testarticle001.html</link>
+      <link>http://bruno-souto.github.io/ia_test_dev/articles/testarticle_good.html</link>
       <guid>32afb928-da82-8e0f-8a77-9624f3f0b799</guid>
       <pubDate>2019-03-15 12:18:00</pubDate>
       <content:encoded>
@@ -18,7 +18,7 @@
       <html lang="en" prefix="op: http://media.facebook.com/op#">
         <head>
           <meta charset="utf-8">
-          <link rel="canonical" href="http://bruno-souto.github.io/ia_test_dev/articles/testarticle001.html">
+          <link rel="canonical" href="http://bruno-souto.github.io/ia_test_dev/articles/testarticle_good.html">
           <title>Bruno's sample article.</title>
         </head>
         <body>
@@ -34,6 +34,76 @@
       Bunnylol `iam` to get sample markup.
     </p>
     
+          </article>
+        </body>
+      </html>
+            ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Bruno's sample article.</title>
+      <link>http://bruno-souto.github.io/ia_test_dev/articles/testarticle_caps.html</link>
+      <guid>32afb928-da82-8e0f-8a77-9624f3f0b798</guid>
+      <pubDate>2019-03-15 12:18:00</pubDate>
+      <content:encoded>
+        <![CDATA[
+              <!doctype html>
+      <html lang="en" prefix="op: http://media.facebook.com/op#">
+        <head>
+          <meta charset="utf-8">
+          <link rel="canonical" href="http://bruno-souto.github.io/ia_test_dev/articles/testarticle_caps.html">
+          <title>BRUNO'S SAMPLE ARTICLE.</title>
+        </head>
+        <body>
+          <article>
+            <header>
+              <h1>TEST</h1>
+              <time class="op-published" datetime="2019-03-15 12:18:00">2019-03-15 12:18:00</time>
+              <time class="op-modified" datetime="2019-03-15 12:18:00">2019-03-15 12:18:00</time>
+            </header>
+            
+    <p>
+      This article is a sample article!
+      Bunnylol `iam` to get sample markup.
+    </p>
+    
+          </article>
+        </body>
+      </html>
+            ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Bruno's sample article.</title>
+      <link>http://bruno-souto.github.io/ia_test_dev/articles/testarticle_bad_image_url.html</link>
+      <guid>32afb928-da82-8e0f-8a77-9624f3f0b799</guid>
+      <pubDate>2019-03-15 12:18:00</pubDate>
+      <content:encoded>
+        <![CDATA[
+              <!doctype html>
+      <html lang="en" prefix="op: http://media.facebook.com/op#">
+        <head>
+          <meta charset="utf-8">
+          <link rel="canonical" href="http://bruno-souto.github.io/ia_test_dev/articles/testarticle_bad_image_url.html">
+          <title>Bruno's sample article.</title>
+        </head>
+        <body>
+          <article>
+            <header>
+              <h1>Test</h1>
+              <time class="op-published" datetime="2019-03-15 12:40:59">2019-03-15 12:40:59</time>
+              <time class="op-modified" datetime="2019-03-15 12:40:59">2019-03-15 12:40:59</time>
+            </header>
+            
+    <p>
+      This article is a sample article!
+      Bunnylol `iam` to get sample markup.
+    </p>
+
+    <figure>
+      <img src="http://fb.me/bad_image_url.jpg" />
+    </figure>
+
           </article>
         </body>
       </html>
