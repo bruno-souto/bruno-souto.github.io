@@ -6,12 +6,12 @@
       Read our awesome news every day.
     </description>
     <language>en-us</language>
-    <lastBuildDate>2019-03-15 12:21:00</lastBuildDate>
+    <lastBuildDate>2019-03-16 12:21:00</lastBuildDate>
     <item>
       <title>Bruno's sample article.</title>
       <link>http://bruno-souto.github.io/ia_test/articles/testarticle_good.html</link>
       <guid>32afb928-da82-8e0f-8a77-9624f3f0b799</guid>
-      <pubDate>2019-03-15 12:18:00</pubDate>
+      <pubDate>2019-03-16 12:18:00</pubDate>
       <content:encoded>
         <![CDATA[
               <!doctype html>
@@ -25,8 +25,8 @@
           <article>
             <header>
               <h1>Test</h1>
-              <time class="op-published" datetime="2019-03-15 12:18:00">2019-03-15 12:18:00</time>
-              <time class="op-modified" datetime="2019-03-15 12:18:00">2019-03-15 12:18:00</time>
+              <time class="op-published" datetime="2019-03-16 12:18:00">2019-03-15 12:18:00</time>
+              <time class="op-modified" datetime="2019-03-16 12:18:00">2019-03-15 12:18:00</time>
             </header>
             
     <p>
@@ -44,7 +44,7 @@
       <title>Bruno's sample article.</title>
       <link>http://bruno-souto.github.io/ia_test/articles/testarticle_caps.html</link>
       <guid>32afb928-da82-8e0f-8a77-9624f3f0b798</guid>
-      <pubDate>2019-03-15 12:19:00</pubDate>
+      <pubDate>2019-03-16 12:19:00</pubDate>
       <content:encoded>
         <![CDATA[
               <!doctype html>
@@ -58,8 +58,8 @@
           <article>
             <header>
               <h1>TEST</h1>
-              <time class="op-published" datetime="2019-03-15 12:18:00">2019-03-15 12:18:00</time>
-              <time class="op-modified" datetime="2019-03-15 12:19:00">2019-03-15 12:18:00</time>
+              <time class="op-published" datetime="2019-03-16 12:18:00">2019-03-15 12:18:00</time>
+              <time class="op-modified" datetime="2019-03-16 12:19:00">2019-03-15 12:18:00</time>
             </header>
             
     <p>
@@ -77,7 +77,7 @@
       <title>Bruno's sample article - Bad Image URL</title>
       <link>http://bruno-souto.github.io/ia_test/articles/testarticle_bad_image_url.html</link>
       <guid>32afb928-da82-8e0f-8a77-9624f3f0b799</guid>
-      <pubDate>2019-03-15 12:29:00</pubDate>
+      <pubDate>2019-03-16 12:29:00</pubDate>
       <content:encoded>
         <![CDATA[
               <!doctype html>
@@ -91,8 +91,8 @@
           <article>
             <header>
               <h1>Test</h1>
-              <time class="op-published" datetime="2019-03-15 12:40:59">2019-03-15 12:40:59</time>
-              <time class="op-modified" datetime="2019-03-15 12:41:00">2019-03-15 12:41:00</time>
+              <time class="op-published" datetime="2019-03-16 12:40:59">2019-03-15 12:40:59</time>
+              <time class="op-modified" datetime="2019-03-16 12:41:00">2019-03-15 12:41:00</time>
             </header>
             
     <p>
