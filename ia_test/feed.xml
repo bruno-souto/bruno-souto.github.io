@@ -9,7 +9,7 @@
     <lastBuildDate>2019-03-15 12:21:00</lastBuildDate>
     <item>
       <title>Bruno's sample article.</title>
-      <link>http://bruno-souto.github.io/ia_test_dev/articles/testarticle_good.html</link>
+      <link>http://bruno-souto.github.io/ia_test/articles/testarticle_good.html</link>
       <guid>32afb928-da82-8e0f-8a77-9624f3f0b799</guid>
       <pubDate>2019-03-15 12:18:00</pubDate>
       <content:encoded>
@@ -18,7 +18,7 @@
       <html lang="en" prefix="op: http://media.facebook.com/op#">
         <head>
           <meta charset="utf-8">
-          <link rel="canonical" href="http://bruno-souto.github.io/ia_test_dev/articles/testarticle_good.html">
+          <link rel="canonical" href="http://bruno-souto.github.io/ia_test/articles/testarticle_good.html">
           <title>Bruno's sample article.</title>
         </head>
         <body>
@@ -42,7 +42,7 @@
     </item>
     <item>
       <title>Bruno's sample article.</title>
-      <link>http://bruno-souto.github.io/ia_test_dev/articles/testarticle_caps.html</link>
+      <link>http://bruno-souto.github.io/ia_test/articles/testarticle_caps.html</link>
       <guid>32afb928-da82-8e0f-8a77-9624f3f0b798</guid>
       <pubDate>2019-03-15 12:19:00</pubDate>
       <content:encoded>
@@ -51,7 +51,7 @@
       <html lang="en" prefix="op: http://media.facebook.com/op#">
         <head>
           <meta charset="utf-8">
-          <link rel="canonical" href="http://bruno-souto.github.io/ia_test_dev/articles/testarticle_caps.html">
+          <link rel="canonical" href="http://bruno-souto.github.io/ia_test/articles/testarticle_caps.html">
           <title>BRUNO'S SAMPLE ARTICLE CAPS</title>
         </head>
         <body>
@@ -75,7 +75,7 @@
     </item>
     <item>
       <title>Bruno's sample article - Bad Image URL</title>
-      <link>http://bruno-souto.github.io/ia_test_dev/articles/testarticle_bad_image_url.html</link>
+      <link>http://bruno-souto.github.io/ia_test/articles/testarticle_bad_image_url.html</link>
       <guid>32afb928-da82-8e0f-8a77-9624f3f0b799</guid>
       <pubDate>2019-03-15 12:29:00</pubDate>
       <content:encoded>
@@ -84,7 +84,7 @@
       <html lang="en" prefix="op: http://media.facebook.com/op#">
         <head>
           <meta charset="utf-8">
-          <link rel="canonical" href="http://bruno-souto.github.io/ia_test_dev/articles/testarticle_bad_image_url.html">
+          <link rel="canonical" href="http://bruno-souto.github.io/ia_test/articles/testarticle_bad_image_url.html">
           <title>Bruno's sample article - Bad Image URL</title>
         </head>
         <body>
