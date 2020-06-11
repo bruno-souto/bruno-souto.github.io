@@ -6,7 +6,7 @@
       Read our awesome news every day.
     </description>
     <language>en-us</language>
-    <lastBuildDate>2019-03-15 12:21:00</lastBuildDate>
+    <lastBuildDate>2020-06-11 12:21:00</lastBuildDate>
     <item>
       <title>Bruno's sample article.</title>
       <link>http://bruno-souto.github.io/ia_test_dev/articles/testarticle_good.html</link>
@@ -33,7 +33,11 @@
       This article is a sample article!
       Bunnylol `iam` to get sample markup.
     </p>
-    
+
+    <figure>
+      <img src="https://i.imgur.com/ccgoNMx.jpg" />
+    </figure>
+
           </article>
         </body>
       </html>
