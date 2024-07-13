@@ -4,6 +4,10 @@
     "url_parameter": {"name": "q", "value": "prod"}
   },
   {
+    "domain": "console.cloud.google.com",
+    "url_parameter": {"name": "project", "value": "litterbot"}
+  },
+  {
     "domain": "www.chase.com"
   }
 ]
