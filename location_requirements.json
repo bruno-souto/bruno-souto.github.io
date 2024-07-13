@@ -1,10 +1,7 @@
 [
   {
     "domain": "www.google.com",
-    "url_parameters": [
-      {"name": "q", "value": "prod"},
-      {"name": "q", "value": "test"}
-    ]
+    "url_parameter": {"name": "q", "value": "prod"}
   },
   {
     "domain": "www.chase.com"
