@@ -1,12 +1,12 @@
 [
   {
-    "domain" = "www.google.com",
+    "domain": "www.google.com",
     "url_parameters" = [
-      {"name" = "q", "value"="prod"},
-      {"name" = "q", "value"="test"}
+      {"name": "q", "value": "prod"},
+      {"name": "q", "value": "test"}
     ]
   },
   {
-    "domain" = "www.chase.com"
+    "domain": "www.chase.com"
   }
 ]
